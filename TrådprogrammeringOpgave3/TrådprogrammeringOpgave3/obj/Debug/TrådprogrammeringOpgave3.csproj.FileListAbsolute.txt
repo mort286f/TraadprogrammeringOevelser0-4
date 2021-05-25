@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\bin\Debug\TrådprogrammeringOpgave3.exe.config
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\bin\Debug\TrådprogrammeringOpgave3.exe
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\bin\Debug\TrådprogrammeringOpgave3.pdb
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\obj\Debug\TrådprogrammeringOpgave3.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\obj\Debug\TrådprogrammeringOpgave3.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\obj\Debug\TrådprogrammeringOpgave3.exe
+C:\Users\mort286f\source\repos\TrådprogrammeringOpgave3\TrådprogrammeringOpgave3\obj\Debug\TrådprogrammeringOpgave3.pdb

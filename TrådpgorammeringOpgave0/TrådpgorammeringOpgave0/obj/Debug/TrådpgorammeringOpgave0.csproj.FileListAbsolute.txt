@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\bin\Debug\TrådpgorammeringOpgave0.exe.config
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\bin\Debug\TrådpgorammeringOpgave0.exe
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\bin\Debug\TrådpgorammeringOpgave0.pdb
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\obj\Debug\TrådpgorammeringOpgave0.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\obj\Debug\TrådpgorammeringOpgave0.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\obj\Debug\TrådpgorammeringOpgave0.exe
+C:\Users\mort286f\source\repos\TrådpgorammeringOpgave0\TrådpgorammeringOpgave0\obj\Debug\TrådpgorammeringOpgave0.pdb
